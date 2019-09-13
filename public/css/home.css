@@ -1,0 +1,26 @@
+
+html, body { background: #333 }
+
+.slides {
+    padding: 0;
+    width: 609px;
+    height: 420px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
+h1{
+color: red;
+}
+
+a{
+    margin-top: 20%;
+    margin-left: 50%;
+    background: wheat
+}
+
+img{
+    height: 300px;
+    witdth: 500px;
+}
